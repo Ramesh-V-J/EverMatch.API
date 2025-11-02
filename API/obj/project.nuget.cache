@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dEoRkY0nnEs=",
+  "success": true,
+  "projectFilePath": "C:\\UdemyCources\\EverMatch\\EverMatch.API\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
